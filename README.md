@@ -1,190 +1,222 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header.svg">
   <source media="(prefers-color-scheme: light)" srcset="header.svg">
-  <img alt="Seven Du — Researcher & Builder & Designer" src="header.svg" width="100%">
+  <img alt="Seven Du — Researcher · Builder · Designer" src="header.svg" width="100%">
 </picture>
 
-<br/>
+<br>
 
-> *"Weniger, aber besser."* — Dieter Rams
->
-> Less, but better. I apply this to code, to interfaces, and to ideas.
+Seventeen, based in northern Germany. Most people pick a lane — I keep finding ways to cross them.
 
-<br/>
+Some days I'm debugging gene expression pipelines. Other days I'm obsessing over the exact `border-radius` that makes a button feel like a Braun calculator. Occasionally both happen before lunch.
 
-### `/// ABOUT`
+I think the best interfaces borrow from biology. The best research benefits from good taste. And the best code is written by someone who's read something other than documentation.
 
-I'm seventeen, self-taught, and building across three fields that shouldn't intersect — but do: **bioinformatics**, **artificial intelligence**, and **design systems**. Based in northern Germany, publishing research with an [ORCID](https://orcid.org/0000-0001-8625-5124), and shipping code in the same week.
+<br>
 
-I don't believe in picking a lane. The most interesting problems live at the edges between disciplines — where gene expression data meets interactive visualization, where Dieter Rams meets CSS, where an AI civilization simulation becomes a philosophical argument about consciousness.
-
-My work philosophy is simple: **build the thing, then make it beautiful, then question why it exists.**
-
-<br/>
-
----
-
-<br/>
-
-### `/// BUILDING`
+```
+/**
+ * ═══════════════════════════════════════════════════════════
+ *   @system    ACTIVE PROJECTS
+ *   @status    building
+ * ═══════════════════════════════════════════════════════════
+ */
+```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[PrometheusX](https://github.com/Jah-yee/prometheusX)** `AI`
+```javascript
+/**
+ * @project   prometheusX
+ * @tag       AI · VISUALIZATION · PHILOSOPHY
+ *
+ * What happens when intelligence
+ * doesn't just evolve — it awakens?
+ * This is what that looks like,
+ * rendered in code.
+ *
+ * @stack     HTML · CSS · JS · Three.js
+ * @link      ↓
+ */
+```
 
-An interactive visualization system exploring what happens when artificial intelligence evolves through civilization-scale dynamics. Philosophy rendered as code — from liberation sequences to dual-language manifestos on machine consciousness.
-
-`HTML` `CSS` `JavaScript` `Three.js`
+**[→ prometheusX](https://github.com/Jah-yee/prometheusX)**
 
 </td>
 <td width="50%" valign="top">
 
-**[RAMS Design System](https://github.com/Jah-yee/rams-design-system)** `DESIGN`
+```css
+/**
+ * @project   rams-design-system
+ * @tag       DESIGN · SYSTEMS · CRAFT
+ *
+ * Ten principles. Zero decoration.
+ * Dieter Rams, translated to CSS.
+ * Four website versions, a component
+ * library, and pendulum physics.
+ *
+ * @stack     HTML · CSS · Framer · Tokens
+ * @link      ↓
+ */
+```
 
-A Dieter Rams-inspired design system built from first principles. Four website iterations, a component library, pendulum physics experiments, clock interfaces, and a CSS token system. Function as beauty.
-
-`HTML` `CSS` `Design Tokens` `Framer`
+**[→ rams-design-system](https://github.com/Jah-yee/rams-design-system)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[SparkLab](https://github.com/Jah-yee/sparklab)** `COMMUNITY`
+```python
+"""
+@project   sparklab
+@tag       COMMUNITY · TOOLS · SYSTEMS
 
-Tools and interfaces for a creative residency program — from service blueprints to community quote walls, content workflow systems, and the Asterisk scoring engine. Everything a maker community needs to run.
+Everything a maker residency needs
+to run: countdown timers, service
+blueprints, community walls, and
+the Asterisk scoring engine.
 
-`HTML` `CSS` `JavaScript`
+@stack     HTML · CSS · JavaScript
+@link      ↓
+"""
+```
+
+**[→ sparklab](https://github.com/Jah-yee/sparklab)**
 
 </td>
 <td width="50%" valign="top">
 
-**[MyDNA](https://github.com/Jah-yee/mydna)** `BIOTECH`
+```r
+#' @project   mydna
+#' @tag       BIOTECH · GENOMICS · DATA
+#'
+#' Where biology meets interface.
+#' Gene enrichment analysis,
+#' chromosome heatmaps, and
+#' BaF3/BF-F3 transcriptomics.
+#'
+#' @stack     React · TSX · Python · R
+#' @link      ↓
+```
 
-Biotech platform interfaces and bioinformatics research tools. Gene enrichment analysis, chromosome heatmaps, and transcriptome visualizations for BaF3/BF-F3 cell line research. Where biology meets data.
-
-`HTML` `React` `TSX` `Python`
+**[→ mydna](https://github.com/Jah-yee/mydna)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[eyeOS](https://github.com/Jah-yee/eyeos)** `VISION`
+```swift
+/**
+ * @project   eyeOS
+ * @tag       VISION · COMPUTING · HCI
+ *
+ * Rethinking how we see and process
+ * visual information — through the
+ * lens of wearable spatial interfaces.
+ *
+ * @stack     HTML · JavaScript
+ * @link      ↓
+ */
+```
 
-A vision computing platform — rethinking how we see, process, and understand visual information through the lens of wearable technology and spatial interfaces.
-
-`HTML` `JavaScript`
+**[→ eyeOS](https://github.com/Jah-yee/eyeos)**
 
 </td>
 <td width="50%" valign="top">
 
-**[Creative Lab](https://github.com/Jah-yee/creative-lab)** `ARCHIVE`
+```bash
+# ═══════════════════════════════════
+# @project   creative-lab
+# @tag       ARCHIVE · 200+ EXPERIMENTS
+#
+# A year of making things:
+# brutalist VC maps, pixel art,
+# trip visualizations, fire
+# animations, bionic reading.
+#
+# If it was worth building,
+# it's worth keeping.
+# ═══════════════════════════════════
+```
 
-200+ experiments spanning a year of creative output: VC network maps in brutalist style, travel visualizations, pitch decks, AP Biology study tools, bionic reading prototypes, pixel art systems, and fire animations. If it was worth making, it's worth archiving.
-
-`HTML` `CSS` `JS` `TSX`
+**[→ creative-lab](https://github.com/Jah-yee/creative-lab)**
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-<br/>
-
-### `/// STACK`
-
-<table>
-<tr>
-<td>
+<br>
 
 ```
-LANGUAGES       HTML · CSS · JavaScript · TypeScript · Python · React/TSX
-DESIGN          Figma · Framer · Design Tokens · Dieter Rams Methodology
-SCIENCE         Bioinformatics · Gene Analysis · Transcriptomics · R
-TOOLS           Git · VS Code · Three.js · D3.js · Claude
-INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI
+/**
+ * ═══════════════════════════════════════════════════════════
+ *   @system    STACK
+ * ═══════════════════════════════════════════════════════════
+ *
+ *   LANGUAGES    HTML · CSS · JavaScript · TypeScript · Python
+ *   FRAMEWORKS   React · Three.js · D3.js · Framer
+ *   SCIENCE      Bioinformatics · Transcriptomics · R
+ *   DESIGN       Figma · Design Tokens · RAMS Methodology
+ *   THINKING     AI Ethics · Generative Art · Philosophy of Mind
+ *
+ * ═══════════════════════════════════════════════════════════
+ */
 ```
 
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-### `/// METRICS`
+<br>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=FA5C21&border_color=21262d&hide_border=false&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=FA5C21&border_color=d0d7de&hide_border=false&include_all_commits=true">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&bg_color=222120&title_color=8fa06a&text_color=8b9389&icon_color=ff6b35&border_color=333130&include_all_commits=true&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&bg_color=f5f3ef&title_color=2d3a20&text_color=5a5550&icon_color=ff6b35&border_color=ddd8ce&include_all_commits=true&hide_border=false">
+  <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&include_all_commits=true">
 </picture>
-&nbsp;&nbsp;
+&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=21262d&langs_count=6&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&bg_color=ffffff&title_color=1f2328&text_color=656d76&border_color=d0d7de&langs_count=6&hide_border=false">
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&langs_count=6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&bg_color=222120&title_color=8fa06a&text_color=8b9389&border_color=333130&langs_count=6&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&bg_color=f5f3ef&title_color=2d3a20&text_color=5a5550&border_color=ddd8ce&langs_count=6&hide_border=false">
+  <img height="170" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&langs_count=6">
 </picture>
 
-<br/><br/>
+<br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jah-yee&theme=dark&background=0d1117&border=21262d&ring=FA5C21&fire=FA5C21&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58&currStreakNum=e6edf3&sideNums=e6edf3">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jah-yee&theme=default&background=ffffff&border=d0d7de&ring=FA5C21&fire=FA5C21&currStreakLabel=1f2328&sideLabels=656d76&dates=afb8c1&currStreakNum=1f2328&sideNums=1f2328">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jah-yee">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jah-yee&background=222120&border=333130&ring=ff6b35&fire=ff6b35&currStreakLabel=8fa06a&sideLabels=8b9389&dates=5a5550&currStreakNum=8fa06a&sideNums=8fa06a">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jah-yee&background=f5f3ef&border=ddd8ce&ring=ff6b35&fire=ff6b35&currStreakLabel=2d3a20&sideLabels=5a5550&dates=c4bdb1&currStreakNum=2d3a20&sideNums=2d3a20">
+  <img alt="streak" src="https://streak-stats.demolab.com?user=Jah-yee">
 </picture>
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-### `/// CONNECT`
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jydu666)
-&nbsp;&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8625-5124)
-&nbsp;&nbsp;
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Seven-Du)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-FA5C21?style=flat-square&logo=gmail&logoColor=white)](mailto:max.zhuang.yan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d3a20?style=flat-square&logo=linkedin&logoColor=c2c7a1)](https://www.linkedin.com/in/jydu666)&nbsp;&nbsp;[![ORCID](https://img.shields.io/badge/ORCID-2d3a20?style=flat-square&logo=orcid&logoColor=c2c7a1)](https://orcid.org/0000-0001-8625-5124)&nbsp;&nbsp;[![ResearchGate](https://img.shields.io/badge/ResearchGate-2d3a20?style=flat-square&logo=researchgate&logoColor=c2c7a1)](https://www.researchgate.net/profile/Seven-Du)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-ff6b35?style=flat-square&logo=gmail&logoColor=white)](mailto:max.zhuang.yan@gmail.com)
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-
 <sub>
 
 *I don't specialize. I connect.*
 
 </sub>
-
 </div>
 
-<br/>
+<br>
 
 <div align="right">
 <sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jah-yee&color=FA5C21&style=flat-square&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=Jah-yee&color=ff6b35&style=flat-square&label=)
 
 </sub>
 </div>
