@@ -1,45 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 210" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" fill="none">
+  <defs>
+    <linearGradient id="ag" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/><stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="gl" cx=".82" cy=".15" r=".55">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity=".07"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gd" cx=".82" cy=".15" r=".55">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity=".15"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
   <style>
-    .bg{fill:#0d1117} .t1{fill:#e6edf3} .t2{fill:#8b949e} .ac{fill:#ff6b35}
-    .dm{fill:#484f58} .tg{fill:#21262d;stroke:#30363d} .tt{fill:#8b949e}
-    @media(prefers-color-scheme:light){
-      .bg{fill:#fff} .t1{fill:#1f2328} .t2{fill:#656d76} .dm{fill:#afb8c1}
-      .tg{fill:#f6f8fa;stroke:#d0d7de} .tt{fill:#656d76}
+    .bg{fill:#fafaf9} .gw{fill:url(#gl)}
+    .tx{fill:#1c1917} .su{fill:#78716c} .mu{fill:#d6d3d1}
+    .tg{fill:#f5f5f4;stroke:#e7e5e4} .tt{fill:#78716c}
+    @media(prefers-color-scheme:dark){
+      .bg{fill:#0c0a09} .gw{fill:url(#gd)}
+      .tx{fill:#fafaf9} .su{fill:#a8a29e} .mu{fill:#44403c}
+      .tg{fill:#1c1917;stroke:#292524} .tt{fill:#a8a29e}
     }
     @keyframes p{0%,100%{opacity:1}50%{opacity:.3}}
     @keyframes c{0%,100%{opacity:1}50%{opacity:0}}
-    @keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
-    .p{animation:p 2.4s ease-in-out infinite}
+    @keyframes fi{from{opacity:0}to{opacity:1}}
+    .p{animation:p 2.5s ease-in-out infinite}
     .c{animation:c 1.1s step-end infinite}
-    .f1{animation:fi .5s ease .1s both}
-    .f2{animation:fi .5s ease .3s both}
-    .f3{animation:fi .5s ease .5s both}
-    .f4{animation:fi .5s ease .7s both}
-    .m{font-family:'SF Mono','Cascadia Code','JetBrains Mono',Consolas,monospace}
-    .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,sans-serif}
+    .f1{animation:fi .4s ease .08s both}
+    .f2{animation:fi .4s ease .22s both}
+    .f3{animation:fi .4s ease .38s both}
+    .f4{animation:fi .4s ease .52s both}
+    .f5{animation:fi .4s ease .68s both}
+    .mo{font-family:'SF Mono','Cascadia Code','JetBrains Mono',Consolas,monospace} .sa{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,sans-serif}
   </style>
-  <rect class="bg" width="840" height="210" rx="6"/>
-  <rect class="ac" x="40" y="0" width="100" height="2.5" rx="1"/>
 
-  <circle class="ac p f1" cx="52" cy="34" r="4"/>
-  <text class="m dm f1" x="64" y="38" font-size="11" letter-spacing=".5">BUILDING</text>
+  <!-- background + glow -->
+  <rect class="bg" width="840" height="200" rx="12"/>
+  <rect class="gw" width="840" height="200" rx="12"/>
 
-  <text class="s t1 f2" x="40" y="88" font-size="42" font-weight="700" letter-spacing="-1">Seven Du</text>
-  <rect class="ac c" x="276" y="58" width="3" height="34" rx="1"/>
+  <!-- accent bar (top) -->
+  <rect fill="url(#ag)" x="40" y="0" width="100" height="2.5" rx="1"/>
 
-  <text class="m t2 f3" x="40" y="122" font-size="13.5" letter-spacing=".3">researcher  ·  builder  ·  designer</text>
+  <!-- status indicator -->
+  <circle fill="#6366f1" cx="52" cy="34" r="4" class="p f1"/>
+  <text class="mo su f1" x="64" y="38" font-size="11" letter-spacing=".5">BUILDING</text>
 
+  <!-- name + cursor -->
+  <text class="sa tx f2" x="40" y="92" font-size="44" font-weight="700" letter-spacing="-1">Seven Du</text>
+  <rect fill="url(#ag)" class="c" x="280" y="62" width="3" height="34" rx="1"/>
+
+  <!-- subtitle -->
+  <text class="mo su f3" x="40" y="124" font-size="13.5" letter-spacing=".3">researcher  ·  builder  ·  designer</text>
+
+  <!-- tags -->
   <g class="f4">
-    <rect class="tg" x="40" y="146" width="108" height="26" rx="13" stroke-width="1"/>
-    <text class="m tt" x="61" y="163" font-size="11">bioinformatics</text>
-    <rect class="tg" x="158" y="146" width="124" height="26" rx="13" stroke-width="1"/>
-    <text class="m tt" x="177" y="163" font-size="11">AI visualization</text>
-    <rect class="tg" x="292" y="146" width="118" height="26" rx="13" stroke-width="1"/>
-    <text class="m tt" x="309" y="163" font-size="11">design systems</text>
-    <rect class="tg" x="420" y="146" width="118" height="26" rx="13" stroke-width="1"/>
-    <text class="m tt" x="437" y="163" font-size="11">creative coding</text>
+    <rect class="tg" x="40" y="148" width="108" height="26" rx="13" stroke-width="1"/>
+    <text class="mo tt" x="61" y="165" font-size="11">bioinformatics</text>
+    <rect class="tg" x="158" y="148" width="128" height="26" rx="13" stroke-width="1"/>
+    <text class="mo tt" x="180" y="165" font-size="11">AI visualization</text>
+    <rect class="tg" x="296" y="148" width="116" height="26" rx="13" stroke-width="1"/>
+    <text class="mo tt" x="314" y="165" font-size="11">design systems</text>
+    <rect class="tg" x="422" y="148" width="120" height="26" rx="13" stroke-width="1"/>
+    <text class="mo tt" x="440" y="165" font-size="11">creative coding</text>
   </g>
 
-  <text class="m dm" x="40" y="200" font-size="10" letter-spacing=".5">01  ///  Güby, Germany</text>
-  <text class="m dm" x="700" y="200" font-size="10" letter-spacing=".5">v2026.02</text>
+  <!-- footer meta -->
+  <text class="mo mu f5" x="40" y="194" font-size="10" letter-spacing=".5">01  ///  Güby, Germany</text>
+  <text class="mo mu f5" x="800" y="194" font-size="10" letter-spacing=".5" text-anchor="end">v2026.02</text>
 </svg>
