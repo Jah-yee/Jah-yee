@@ -62,8 +62,8 @@
   <!-- Background -->
   <rect class="bg" width="840" height="220" rx="6"/>
 
-  <!-- Top accent line -->
-  <rect class="accent" x="40" y="0" width="120" height="2.5" rx="1"/>
+  <!-- Top accent line (from left edge) -->
+  <rect class="accent" x="0" y="0" width="120" height="2.5" rx="1"/>
 
   <!-- Status indicator -->
   <circle class="accent pulse-dot" cx="52" cy="36" r="4"/>
