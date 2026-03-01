@@ -20,8 +20,6 @@ The best interfaces borrow from biology. The best research borrows from taste. A
 
 I don't specialize. I connect.
 
-<br/>
-
 ---
 
 <br/>
