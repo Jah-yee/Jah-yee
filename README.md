@@ -95,7 +95,7 @@ INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI
 
 ### `/// METRICS`
 
-<div align="center">
+<div align="left">
 
 <img src="metrics.stats.svg" alt="GitHub Stats" width="100%">
 
