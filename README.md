@@ -22,8 +22,6 @@ I don't specialize. I connect.
 
 ---
 
-<br/>
-
 ### `/// BUILDING`
 
 <table>
@@ -73,8 +71,6 @@ Turn any CSV or JSON into a beautiful, interactive HTML dashboard. One command, 
 
 ---
 
-<br/>
-
 ### `/// STACK`
 
 <table>
@@ -97,8 +93,6 @@ INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI
 
 ---
 
-<br/>
-
 ### `/// METRICS`
 
 <div align="center">
@@ -120,8 +114,6 @@ INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI
 <br/>
 
 ---
-
-<br/>
 
 ### `/// CONNECT`
 
