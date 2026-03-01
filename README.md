@@ -121,17 +121,9 @@ INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=FA5C21&border_color=21262d&hide_border=false&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&bg_color=ffffff&title_color=1f2328&text_color=656d76&icon_color=FA5C21&border_color=d0d7de&hide_border=false&include_all_commits=true">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jah-yee&show_icons=true&include_all_commits=true">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=21262d&langs_count=6&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&bg_color=ffffff&title_color=1f2328&text_color=656d76&border_color=d0d7de&langs_count=6&hide_border=false">
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jah-yee&layout=compact&langs_count=6">
-</picture>
+<img src="metrics.stats.svg" alt="GitHub Stats" width="49%">
+&nbsp;
+<img src="metrics.langs.svg" alt="Top Languages" width="49%">
 
 <br/><br/>
 
