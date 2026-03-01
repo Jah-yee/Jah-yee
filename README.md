@@ -80,11 +80,11 @@ Turn any CSV or JSON into a beautiful, interactive HTML dashboard. One command, 
 <td>
 
 ```
-LANGUAGES       HTML · CSS · JavaScript · TypeScript · Python · React/TSX
-DESIGN          Figma · Framer · Design Tokens
+LANGUAGES       HTML · CSS · JavaScript · TypeScript · Python · React/TSX · C/C++/C#
+DE$IGN          Canva · Figma · Framer · De$ign Tokens coding
 SCIENCE         Bioinformatics · Gene Analysis · Transcriptomics · R
-TOOLS           Git · VS Code · Three.js · D3.js · Claude
-INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI
+TOOLS           ML · Three.js · D3.js · MySQL
+INTERESTS       AI Ethics · Generative seq · Proactive AI · HCI
 ```
 
 </td>
