@@ -30,7 +30,7 @@ I don't specialize. I connect.
 
 **[eyeOS](https://github.com/Jah-yee/eyeos)** `VISION`
 
-A vision computing platform — rethinking how we see, process, and understand visual information through the lens of wearable technology and spatial interfaces.
+Vision Computing.
 
 `HTML` `JavaScript`
 
