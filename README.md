@@ -30,7 +30,7 @@ I don't specialize. I connect.
 <tr>
 <td width="50%" valign="top">
 
-**[eyeOS](https://github.com/Jah-yee/eyeos)** `VISION`
+**[eyeOS](https://github.com/Jah-yee/eyeos)** `ACCESSBILITY`
 
 Vision Computing.
 
