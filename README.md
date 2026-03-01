@@ -39,31 +39,31 @@ A vision computing platform — rethinking how we see, process, and understand v
 </td>
 <td width="50%" valign="top">
 
-**[Project Name](https://github.com/username/repo)** `TAG`
+**[OP-1 Style Player](https://github.com/Jah-yee/TE_Op1_style_player)** `INTERFACE`
 
-Short description. Replace with your project.
+A community code bundle for an OP-1 style player — reference Teenage Engineering OP-1. Run locally with Vite.
 
-`Tech` `Stack`
+`TypeScript` `CSS` `Vite`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Project Name](https://github.com/username/repo)** `TAG`
+**[codeframe](https://github.com/Jah-yee/codeframe)** `TOOLS`
 
-Short description. Replace with your project.
+Beautiful code screenshots from your terminal. One command → syntax-highlighted SVG with window chrome, traffic lights, and line numbers. No browser, no upload.
 
-`Tech` `Stack`
+`Python` `Pygments`
 
 </td>
 <td width="50%" valign="top">
 
-**[Project Name](https://github.com/username/repo)** `TAG`
+**[loupe](https://github.com/Jah-yee/loupe)** `DATA`
 
-Short description. Replace with your project.
+Turn any CSV or JSON into a beautiful, interactive HTML dashboard. One command, zero dependencies — sort, filter, search, stats. Single offline `.html` file.
 
-`Tech` `Stack`
+`Python`
 
 </td>
 </tr>
