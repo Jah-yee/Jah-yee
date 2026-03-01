@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header.svg">
   <source media="(prefers-color-scheme: light)" srcset="header.svg">
-  <img alt="Jiayi (Seven) Du — Researcher & Builder & Designer" src="header.svg" width="100%">
+  <img alt="Jiayi (Seven) Du — Researcher & Builder & Trier" src="header.svg" width="100%">
 </picture>
 
 <br/>
