@@ -1,3 +1,5 @@
+<div align="left">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header.svg">
   <source media="(prefers-color-scheme: light)" srcset="header.svg">
@@ -112,6 +114,8 @@ INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Jah-yee&theme=default&background=ffffff&border=d0d7de&ring=FA5C21&fire=FA5C21&currStreakLabel=1f2328&sideLabels=656d76&dates=afb8c1&currStreakNum=1f2328&sideNums=1f2328">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jah-yee">
 </picture>
+
+</div>
 
 </div>
 
