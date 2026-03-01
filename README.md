@@ -10,7 +10,8 @@ Most people pick a lane, I keep looking for where they intersect.
 
 Some days it's gene expression pipelines. Other days it's the exact `border-radius` that makes a button feel right. Occasionally both before lunch.
 
-here is what I see:
+
+Here is what I see:
 
 The best interfaces borrow from biology. The best research borrows from taste. And the best code is written by someone who reads more than documentation.
 
@@ -28,46 +29,6 @@ I don't specialize. I connect.
 <tr>
 <td width="50%" valign="top">
 
-**[PrometheusX](https://github.com/Jah-yee/prometheusX)** `AI`
-
-An interactive visualization system exploring what happens when artificial intelligence evolves through civilization-scale dynamics. Philosophy rendered as code — from liberation sequences to dual-language manifestos on machine consciousness.
-
-`HTML` `CSS` `JavaScript` `Three.js`
-
-</td>
-<td width="50%" valign="top">
-
-**[RAMS Design System](https://github.com/Jah-yee/rams-design-system)** `DESIGN`
-
-A Dieter Rams-inspired design system built from first principles. Four website iterations, a component library, pendulum physics experiments, clock interfaces, and a CSS token system. Function as beauty.
-
-`HTML` `CSS` `Design Tokens` `Framer`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[SparkLab](https://github.com/Jah-yee/sparklab)** `COMMUNITY`
-
-Tools and interfaces for a creative residency program — from service blueprints to community quote walls, content workflow systems, and the Asterisk scoring engine. Everything a maker community needs to run.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**[MyDNA](https://github.com/Jah-yee/mydna)** `BIOTECH`
-
-Biotech platform interfaces and bioinformatics research tools. Gene enrichment analysis, chromosome heatmaps, and transcriptome visualizations for BaF3/BF-F3 cell line research. Where biology meets data.
-
-`HTML` `React` `TSX` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[eyeOS](https://github.com/Jah-yee/eyeos)** `VISION`
 
 A vision computing platform — rethinking how we see, process, and understand visual information through the lens of wearable technology and spatial interfaces.
@@ -77,11 +38,31 @@ A vision computing platform — rethinking how we see, process, and understand v
 </td>
 <td width="50%" valign="top">
 
-**[Creative Lab](https://github.com/Jah-yee/creative-lab)** `ARCHIVE`
+**[Project Name](https://github.com/username/repo)** `TAG`
 
-200+ experiments spanning a year of creative output: VC network maps in brutalist style, travel visualizations, pitch decks, AP Biology study tools, bionic reading prototypes, pixel art systems, and fire animations. If it was worth making, it's worth archiving.
+Short description. Replace with your project.
 
-`HTML` `CSS` `JS` `TSX`
+`Tech` `Stack`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Project Name](https://github.com/username/repo)** `TAG`
+
+Short description. Replace with your project.
+
+`Tech` `Stack`
+
+</td>
+<td width="50%" valign="top">
+
+**[Project Name](https://github.com/username/repo)** `TAG`
+
+Short description. Replace with your project.
+
+`Tech` `Stack`
 
 </td>
 </tr>
@@ -101,7 +82,7 @@ A vision computing platform — rethinking how we see, process, and understand v
 
 ```
 LANGUAGES       HTML · CSS · JavaScript · TypeScript · Python · React/TSX
-DESIGN          Figma · Framer · Design Tokens · Dieter Rams Methodology
+DESIGN          Figma · Framer · Design Tokens
 SCIENCE         Bioinformatics · Gene Analysis · Transcriptomics · R
 TOOLS           Git · VS Code · Three.js · D3.js · Claude
 INTERESTS       AI Ethics · Generative Art · Philosophy of Mind · HCI

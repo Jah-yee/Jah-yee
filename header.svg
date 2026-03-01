@@ -76,19 +76,19 @@
   <!-- Subtitle -->
   <text class="mono subtitle fade-3" x="40" y="128" font-size="13.5" letter-spacing="0.3">researcher  &amp;  builder  &amp;  designer</text>
 
-  <!-- Tags row -->
+  <!-- Tags row (centered: total width 516 = 110+12+130+12+120+12+120, start x = (840-516)/2 = 162) -->
   <g class="fade-4">
-    <rect class="tag" x="40" y="152" width="110" height="26" rx="13" stroke-width="1"/>
-    <text class="mono tag-text" x="63" y="169" font-size="11">bioinformatics</text>
+    <rect class="tag" x="162" y="152" width="110" height="26" rx="13" stroke-width="1"/>
+    <text class="mono tag-text" x="185" y="169" font-size="11">bioinformatics</text>
 
-    <rect class="tag" x="160" y="152" width="130" height="26" rx="13" stroke-width="1"/>
-    <text class="mono tag-text" x="180" y="169" font-size="11">AI visualization</text>
+    <rect class="tag" x="284" y="152" width="130" height="26" rx="13" stroke-width="1"/>
+    <text class="mono tag-text" x="304" y="169" font-size="11">AI visualization</text>
 
-    <rect class="tag" x="300" y="152" width="120" height="26" rx="13" stroke-width="1"/>
-    <text class="mono tag-text" x="318" y="169" font-size="11">design systems</text>
+    <rect class="tag" x="426" y="152" width="120" height="26" rx="13" stroke-width="1"/>
+    <text class="mono tag-text" x="444" y="169" font-size="11">design systems</text>
 
-    <rect class="tag" x="430" y="152" width="120" height="26" rx="13" stroke-width="1"/>
-    <text class="mono tag-text" x="448" y="169" font-size="11">creative coding</text>
+    <rect class="tag" x="558" y="152" width="120" height="26" rx="13" stroke-width="1"/>
+    <text class="mono tag-text" x="576" y="169" font-size="11">creative coding</text>
   </g>
 
   <!-- Bottom line number decoration -->
