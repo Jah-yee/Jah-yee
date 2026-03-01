@@ -10,7 +10,7 @@ Most people pick a lane, I keep looking for where they intersect.
 
 Some days it's gene expression pipelines. Other days it's the exact `border-radius` that makes a button feel right. Occasionally both before lunch.
 
----
+<hr style="border: none; border-top: 0.5px solid #1f2328; margin: 1em 0;">
 
 Here is what I see:
 
