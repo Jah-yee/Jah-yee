@@ -17,7 +17,9 @@ Some days it's gene expression pipelines. Other days it's the exact `border-radi
 
 Here is what I see:
 
-The best interfaces borrow from biology. The best research borrows from taste. And the best code is written by someone who reads more than documentation.
+The best interfaces borrow from biology. The best research borrows from taste. 
+
+And the best code is written by someone who reads more than documentation.
 
 ---
 
