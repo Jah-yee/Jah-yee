@@ -78,10 +78,10 @@
   <text class="mono subtitle fade-3" x="12" y="128" font-size="13.5" letter-spacing="0.3">researcher  &amp;  builder  &amp;  trier</text>
 
   <!-- Bottom line decoration -->
-  <text class="mono dim" x="12" y="208" font-size="10" letter-spacing="0.5">///  elsewhere</text>
+  <text class="mono dim" x="0" y="208" font-size="10" letter-spacing="0.5">///  elsewhere</text>
   <g>
-    <rect fill="#b1b8c0" x="682" y="200" width="76" height="16" rx="4" ry="4"/>
-    <text class="mono" fill="#ffffff" x="690" y="211" font-size="10" letter-spacing="0.5">v2026.02</text>
+    <rect fill="#d0d4d9" x="820" y="200" width="60" height="16" rx="4" ry="4"/>
+    <text class="mono" fill="#ffffff" x="826" y="212" font-size="10" letter-spacing="0.5">v2026.02</text>
   </g>
   </g>
 </svg>
