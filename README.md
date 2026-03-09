@@ -33,7 +33,7 @@ And the best code is written by someone who reads more than documentation.
 
 Vision Computing.
 
-`HTML` `JavaScript`
+`Edge AI Wearable`
 
 </td>
 <td width="50%" valign="top">
