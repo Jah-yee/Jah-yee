@@ -23,6 +23,8 @@ And the best code is written by someone who reads more than documentation.
 
 ---
 
+### `/// TRACTION`
+
 [![Code War](https://codewar.dev/api/svg?users=Jah-yee,torvalds,bcherny,garrytan&range=3m&self=Jah-yee)](https://codewar.dev/?user=Jah-yee&targets=torvalds,bcherny,garrytan&range=3m)
 
 ---
