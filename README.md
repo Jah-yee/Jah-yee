@@ -25,7 +25,7 @@ And the best code is written by someone who reads more than documentation.
 
 ### `/// TRACTIONS`
 
-[![Code War](https://codewar.dev/api/svg?users=Jah-yee,torvalds,bcherny,garrytan&range=1m&self=Jah-yee)](https://codewar.dev/?user=Jah-yee&targets=torvalds,bcherny,garrytan&range=1m)
+[![Code War](https://codewar.dev/api/svg?users=jah-yee,torvalds,garrytan,karpathy&range=1m&self=jah-yee)](https://codewar.dev/?user=jah-yee&targets=torvalds,garrytan,karpathy&range=1m)
 
 ---
 
