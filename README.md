@@ -89,7 +89,7 @@ LANGUAGES       HTML · CSS · JavaScript · TypeScript · Python · React/TSX �
 DE$IGN          Canva · Figma · Framer · Design Tokens coding
 SCIENCE         R/Python(Bioinformatics · Gene Analysis · Transcriptomics )
 TOOLS           ML(PyTorch/TensorFlow) · Three.js · D3.js · MySQL
-INTERESTS       Harness&Protocol · Generative seq · Proactive AI · HCI · AI Ethic
+INTERESTS       Harness&Protocol · Generative seq · Interface · HCI · AI Ethic
 ```
 
 </td>
