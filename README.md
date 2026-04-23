@@ -8,7 +8,7 @@
 
 <br/>
 
-Most people pick a lane, I keep looking for where they intersect.
+Most people pick a lane, I keep noticing for where they intersect.
 
 Some days it's gene expression pipelines. Other days it's the exact `border-radius` that makes a button feel right. Occasionally both before the rising sun.
 
