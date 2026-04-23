@@ -59,7 +59,7 @@ AI capabilities are in the pre-TypeScript era. Effector adds a typed interface l
 
 Interactive ML visualization for seeing how SVM, Trees, KNN, and other models carve 2D feature space.
 
-`Python` `scikit-learn` `Visualization`
+`ML` `scikit-learn` `Visualization`
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ Interactive ML visualization for seeing how SVM, Trees, KNN, and other models ca
 
 An ongoing multi-phase research pipeline for psychiatric epidemiology.
 
-`Python` `PyTorch` `Epidemiology`
+`PyTorch` `Psychiatric` `Epidemiology`
 
 </td>
 </tr>
