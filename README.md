@@ -29,6 +29,55 @@ And the best code is written by someone who reads more than documentation.
 
 ---
 
+### `/// BUILDING`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Wittgenstein](https://github.com/Moapacha/wittgenstein)** `HARNESS`
+
+A modality harness for text-first models — structured IR into real PNG / WAV / CSV artifacts, traceable end-to-end.
+
+`TypeScript` `Python` `Codecs`
+
+</td>
+<td width="50%" valign="top">
+
+**[effectorHQ](https://github.com/effectorHQ)** `INFRA`
+
+Typed, composable, verifiable hands for AI — a builder ecosystem for skills, effectors, runtime bridges, and capability tooling.
+
+`TypeScript` `Protocols` `Tooling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ml-decision-boundary](https://github.com/Jah-yee/ml-decision-boundary)** `ML`
+
+Interactive ML visualization for seeing how SVM, Trees, KNN, and other models carve 2D feature space.
+
+`Python` `scikit-learn` `Visualization`
+
+</td>
+<td width="50%" valign="top">
+
+**[morpho](https://github.com/Jah-yee/morpho)** `RESEARCH`
+
+A psychiatric epidemiology pipeline — from cleaning and deep mining to multi-branch phenotype modeling on clinical data.
+
+`Python` `PyTorch` `Epidemiology`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
 ### `/// BUILDED`
 
 <table>
