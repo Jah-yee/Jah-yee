@@ -39,14 +39,14 @@ And the best code is written by someone who reads more than documentation.
 
 A modality harness for text-first models — structured IR into real PNG / WAV / CSV artifacts, traceable end-to-end.
 
-`TypeScript` `Python` `Codecs`
+`TypeScript` `ML` `Codecs`
 
 </td>
 <td width="50%" valign="top">
 
-**[effectorHQ](https://github.com/effectorHQ)** `INFRA`
+**[effector](https://github.com/effectorHQ)** `INFRA`
 
-Typed, composable, verifiable hands for AI — a builder ecosystem for skills, effectors, runtime bridges, and capability tooling.
+AI capabilities are in the pre-TypeScript era. Effector adds a typed interface layer—tools can be compiled, verified, and composed across runtimes. All in one `effector.toml` sidecar.
 
 `TypeScript` `Protocols` `Tooling`
 
@@ -66,7 +66,7 @@ Interactive ML visualization for seeing how SVM, Trees, KNN, and other models ca
 
 **[morpho](https://github.com/Jah-yee/morpho)** `RESEARCH`
 
-A psychiatric epidemiology pipeline — from cleaning and deep mining to multi-branch phenotype modeling on clinical data.
+An ongoing multi-phase research pipeline for psychiatric epidemiology.
 
 `Python` `PyTorch` `Epidemiology`
 
