@@ -35,7 +35,7 @@ And the best code is written by someone who reads more than documentation.
 <tr>
 <td width="50%" valign="top">
 
-**[eyeOS](https://github.com/Jah-yee/eyeos)** `ACCESSBILITY`
+**[eyeOS](https://www.eyeos.tech/)** `ACCESSBILITY`
 
 Vision Computing.
 
