@@ -97,7 +97,7 @@ Turn any CSV or JSON into a beautiful, interactive HTML dashboard. One command, 
 ```
 LANGUAGES       HTML · CSS · JavaScript · TypeScript · Python · React/TSX · C/C++/C#
 DE$IGN          Canva · Figma · Framer · Design Tokens coding
-SCIENCE         R/Python(Bioinformatics · Gene Analysis · Transcriptomics )
+SCIENCE         R/Python(Bioinformatics · Gene Analysis · Transcriptomics)
 TOOLS           ML(PyTorch/TensorFlow) · Three.js · D3.js · MySQL
 INTERESTS       Harness & Protocol · Generative seq · Interface · HCI · AI Ethic
 ```
