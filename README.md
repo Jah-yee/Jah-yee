@@ -31,7 +31,7 @@ And the best code is written by someone who reads more than documentation.
 
 ### `/// BUILDING`
 
-- **⟁** **[Wittgenstein-CLI](https://github.com/wittgenstein-cli/wittgenstein)** — A modality harness for text-first LLMs, traceable end-to-end. 
+- **⟁** **[Wittgenstein-CLI](https://github.com/wittgenstein-cli/wittgenstein)** — The modality harness for text-first LLMs, traceable end-to-end. 
 - **⧉** **[Effector](https://github.com/effectorHQ)** — AI capabilities are in the pre-TypeScript era. Effector adds a typed interface layer—tools can be compiled, verified, and composed across runtimes. All in one `effector.toml` sidecar. 
 - **◒** **[ml-decision-boundary](https://github.com/Jah-yee/ml-decision-boundary)** — Interactive ML visualization for seeing how SVM, Trees, KNN, and other models carve 2D feature space. 
 - **⟢** **[morpho](https://github.com/Jah-yee/morpho)** — An ongoing multi-phase research pipeline for psychiatric epidemiology. 
