@@ -48,6 +48,8 @@ jobs:
           # Include forks so language bars match how you actually work (many PRs are on forks).
           repositories: 200
           repositories_forks: yes
+          # Orgs you belong to: default "owner" alone often yields empty language stats.
+          repositories_affiliations: owner, organization_member, collaborator
           plugin_languages: yes
           plugin_languages_limit: 8
           # "lines" only works with plugin_languages_indepth; without it, use bytes + % (GraphQL API).
