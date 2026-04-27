@@ -25,7 +25,7 @@ And the best code is written by someone who reads more than documentation.
 
 ### `/// TRACTIONS`
 
-The limits of my code mean the limits of my world.
+> The limits of my code mean the limits of my world.
 
 [![Code War](https://codewar.dev/api/svg?users=jah-yee,torvalds,garrytan,karpathy&range=1m&self=jah-yee)](https://codewar.dev/?user=jah-yee&targets=torvalds,garrytan,karpathy&range=1m)
 
