@@ -21,6 +21,9 @@ The best interfaces borrow from biology. The best research borrows from taste.
 
 And the best code is written by someone who reads more than documentation.
 
+
+The limits of my code mean the limits of my world
+
 ---
 
 ### `/// TRACTIONS`
