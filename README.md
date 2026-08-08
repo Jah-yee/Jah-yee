@@ -41,7 +41,7 @@ And the best code is written by someone who reads more than documentation.
 
 ---
 
-### `/// BUILDED`
+### `/// BUILT`
 
 <table>
 <tr>
