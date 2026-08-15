@@ -27,17 +27,6 @@ And the best code is written by someone who reads more than documentation.
 
 > The limits of my code mean the limits of my world.
 
-<div align="center">
-  <a href="https://ghfind.com/u/jah-yee?ref=badge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jah-yee?theme=dark" />
-      <img src="https://ghfind.com/api/card/mini/jah-yee?theme=light" alt="GitHub Roast score card" width="440" />
-    </picture>
-  </a>
-</div>
-
-<br/>
-
 [![Code War](https://codewar.dev/api/svg?users=jah-yee,torvalds,garrytan,karpathy&range=1m&self=jah-yee)](https://codewar.dev/?user=jah-yee&targets=torvalds,garrytan,karpathy&range=1m)
 
 ---
@@ -133,7 +122,7 @@ INTERESTS       Harness & Protocol · Generative seq · Interface · HCI · AI E
 
 <img src="metrics.langs.svg" alt="Top Languages" width="100%">
 
-<br/><
+<br/>
 
 
 <div align="center">
@@ -145,6 +134,17 @@ INTERESTS       Harness & Protocol · Generative seq · Interface · HCI · AI E
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Jah-yee">
 </picture>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://ghfind.com/u/jah-yee?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jah-yee?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/jah-yee?theme=light" alt="GitHub Roast score card" width="680" />
+    </picture>
+  </a>
 </div>
 
 </div>
