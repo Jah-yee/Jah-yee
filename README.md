@@ -41,7 +41,7 @@ And the best code is written by someone who reads more than documentation.
 
 ---
 
-### `/// BUILDED`
+### `/// BUILT`
 
 <table>
 <tr>
@@ -116,28 +116,8 @@ INTERESTS       Harness & Protocol · Generative seq · Interface · HCI · AI E
 
 <img src="metrics.stats.svg" alt="GitHub stats — activity, community, repositories" width="100%">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jah-yee&type=svg&theme=dark&background=0d1117&border=21262d&ring=FA5C21&fire=FA5C21&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58&currStreakNum=e6edf3&sideNums=e6edf3">
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Jah-yee&type=svg&theme=default&background=ffffff&border=d0d7de&ring=FA5C21&fire=FA5C21&currStreakLabel=1f2328&sideLabels=656d76&dates=afb8c1&currStreakNum=1f2328&sideNums=1f2328" width="100%">
-</picture>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://ghfind.com/u/jah-yee?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jah-yee?theme=dark">
-    <img alt="ghfind developer score card" src="https://ghfind.com/api/card/mini/jah-yee?theme=light" width="100%">
-  </picture>
-</a>
-
-</td>
-</tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg"><img alt="Top languages, ranked by primary language across public repositories" src="cards/languages-light.svg" width="49%"></picture>
+<a href="https://ghfind.com/u/jah-yee?ref=badge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jah-yee?theme=dark"><img alt="ghfind developer score card" src="https://ghfind.com/api/card/mini/jah-yee?theme=light" width="49%"></picture></a>
 
 <br/>
 
