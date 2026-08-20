@@ -37,19 +37,12 @@ jobs:
           plugin_languages: no
           config_display: large
 
-      - name: Language card
-        env:
-          # Built-in token: reading public repo metadata needs no extra scope,
-          # so this card has no secret to provision or rotate.
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/gen_language_card.py
-
       - name: Commit and push metrics
         run: |
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.stats.svg cards/
+          git add metrics.stats.svg
           if git diff --staged --quiet; then
             echo "No changes to metrics SVGs"
             exit 0
