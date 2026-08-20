@@ -37,12 +37,15 @@ jobs:
           plugin_languages: no
           config_display: large
 
+      - name: Streak card
+        run: bash scripts/fetch_streak_card.sh
+
       - name: Commit and push metrics
         run: |
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.stats.svg
+          git add metrics.stats.svg cards/
           if git diff --staged --quiet; then
             echo "No changes to metrics SVGs"
             exit 0

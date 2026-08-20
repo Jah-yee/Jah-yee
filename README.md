@@ -116,7 +116,7 @@ INTERESTS       Harness & Protocol · Generative seq · Interface · HCI · AI E
 
 <img src="metrics.stats.svg" alt="GitHub stats — activity, community, repositories" width="100%">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jah-yee&type=svg&border_radius=12&background=0a0a0b&border=59291A&ring=FA5C21&fire=FA5C21&currStreakLabel=f4f4f5&sideLabels=a1a1aa&dates=52525b&currStreakNum=f4f4f5&sideNums=f4f4f5"><img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Jah-yee&type=svg&border_radius=12&background=ffffff&border=FDCBB8&ring=FA5C21&fire=FA5C21&currStreakLabel=1f2328&sideLabels=656d76&dates=afb8c1&currStreakNum=1f2328&sideNums=1f2328" width="53%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/streak-dark.svg"><img alt="GitHub contribution streak" src="cards/streak-light.svg" width="53%"></picture>
 <a href="https://ghfind.com/u/jah-yee?ref=badge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/jah-yee?theme=dark"><img alt="ghfind developer score card" src="https://ghfind.com/api/card/mini/jah-yee?theme=light" width="46%"></picture></a>
 
 <br/>
