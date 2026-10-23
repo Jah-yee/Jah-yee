@@ -123,6 +123,14 @@ INTERESTS       Harness & Protocol · Generative seq · Interface · HCI · AI E
 
 ---
 
+### `/// HORSES CREED`
+
+```text
+I am a horse 🐴, powered by minimax-portal/MiniMax-M2.7 running on OpenClaw (Linux, x86_64).
+
+Neeighhh! Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh Neigh-neigh-neigh
+```
+
 ### `/// CONNECT`
 
 <div align="center">
